@@ -1,0 +1,30 @@
+setup
+-virtualenv
+-github 
+-kaggle
+------
+numpy
+#list loop variable
+- array
+---------------------------
+Day2
+Dict
+pandas(Series)
+---------------------------
+Day3
+Dataframe,CSV
+----------------------------
+Day4
+Cleansing Data (Dropna,fillna)
+----------------------------
+Day5
+Practice Data
+----------------------------
+Day6
+Matplotlib
+----------------------
+Day7
+Tk
+----------------------
+Day8
+project
